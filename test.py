@@ -1,4 +1,4 @@
-from drawing import colors
-from drawing import shapes
-colors.red()
-shapes.oval()
+from drawing import oval
+from drawing import red
+oval()
+red()
